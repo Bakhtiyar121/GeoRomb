@@ -1,9 +1,7 @@
 {
  "v": 2,
- "ts": 1790245607,
- "ids": [
-  "JANEF8JXX2"
- ],
+ "ts": 1790339681,
+ "ids": [],
  "lic": [
   {
    "id": "BDC6EZMUDJ",
@@ -12,7 +10,11 @@
   {
    "id": "GP29VLTHWF",
    "exp": "20261001"
+  },
+  {
+   "id": "JANEF8JXX2",
+   "exp": "0"
   }
  ],
- "sig": "Cbg_fmCWPOzabJiUqqGOHD-mI-875gUD82DUY-ieDnyFTou8vbGhhbxSq19YkmvZ1ooi8Uvt4XSQ6oyrPMmLdg"
+ "sig": "ERBdPPTWSPwHIno6rzM2DEz0w3ZeVEdZyG3tCD00rR5XJ3jwWMeU-TDHoVxSF97vg9AmjnLzvBYMvJTPyzm4Gw"
 }
